@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Johnny Varila, and I am a student at Hive Helsinki, a school in the 42 network.
+My name is Johnny Varila, and I am a student at Hive Helsinki, a coding school in the 42 network.
 
 I am currently working on a small [shell](https://github.com/zoni527/minishell) written in C in collaboration with [Kettumies](https://github.com/K2mies).
 
