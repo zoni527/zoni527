@@ -2,11 +2,12 @@
 My name is Johnny Varila, and I am a Software Developer, and student at Hive Helsinki. 
 I have experience in 3D content workflows and production pipelines, UX design, and
 optimization for mobile and web3D. I am interested in games, tech art, 3D graphics,
-real-time rendering, and embedded electronics.
-## Projects
-### [Raytracer in C](https://github.com/EvAvKein/hive_minirt)
-### [Unix shell in C](https://github.com/zoni527/minishell)
-### [Wordle: game, bot, and assistant](https://github.com/zoni527/rush_wordle)
+real-time rendering, problem solving, low level programming, and embedded electronics.
+## Highlighted projects
+- [Multithreaded CPU raytracer in C](https://github.com/EvAvKein/hive_minirt)
+- [Web server in C++](https://github.com/sonjasonjao/webserv)
+- [Unix shell in C](https://github.com/zoni527/minishell)
+- [Wordle: game, bot, and assistant](https://github.com/zoni527/rush_wordle)
 ## Skills
 ### High level
 problem solving, low level programming, scripting, benchmarking, testing,
@@ -24,9 +25,8 @@ animation, illustration, 3D modeling, texturing
 - Teaching
 - Organizing
 ## Currently learning
-- The HTTP protocol
-- Developing a web server
 - Containers using Docker
+- Full stack
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/johnny-varila-8723775b/)
 - [Personal graphic design portfolio site](https://johnnyvarila.fi)
