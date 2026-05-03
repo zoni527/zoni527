@@ -1,37 +1,27 @@
 # Welcome!
-My name is Johnny Varila, and I am a Software Developer, and student at Hive Helsinki. 
+My name is Johnny Varila, and I am a Software Developer, and student at Hive Helsinki.
 I have experience in 3D content workflows and production pipelines, UX design, and
-optimization for mobile and web3D. I am interested in games, tech art, 3D graphics,
-real-time rendering, problem solving, low level programming, and embedded electronics.
-## Highlighted projects
-- [Multithreaded CPU raytracer in C](https://github.com/EvAvKein/hive_minirt)
-- [Web server in C++](https://github.com/sonjasonjao/webserv)
-- [Unix shell in C](https://github.com/zoni527/minishell)
-- [Wordle: game, bot, and assistant](https://github.com/zoni527/rush_wordle)
+optimization for mobile and web3D. I am interested in problem solving, low level
+programming, tech art, 3D graphics, real-time rendering, and embedded electronics.
 ## Skills
 ### High level
-problem solving, low level programming, scripting, benchmarking, testing,
-documentation,UX, XR, optimization, photogrammetry, photo and video editing,
-animation, illustration, 3D modeling, texturing
+- problem solving **·** low level programming **·** scripting
+- benchmarking **·** testing **·** debugging **·** documentation **·** optimization
+- UX **·** XR **·** AI
+
+Through my background as a 2D/3D generalist I also know 3D modeling (Blender),
+texturing, lighting, animation, illustration, photo and video editing.
 ### Programming languages
-- C
-- C++
-- Python
-- HTML/CSS
-- JavaScript
+- C **·** C++ **·** Go **·** Python **·** HTML/CSS **·** JavaScript
+### Tools, platforms, frameworks
+- Linux **·** Git **·** Docker **·** GDB **·** Gin
 ### Soft skills
-- Cross cultural collaboration
-- Working in multidisciplinary teams
-- Teaching
-- Organizing
+- collaboration **·** teamwork **·** code reviewing **·** volunteering **·** organizing
 ## Currently learning
-- Containers using Docker
+- [Backend development in Go](https://github.com/Kiiskii/ft_transcendence) using the [Gin web framework](https://gin-gonic.com/)
 - Full stack
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/johnny-varila-8723775b/)
-- [Personal graphic design portfolio site](https://johnnyvarila.fi)
-- [ArtStation](https://www.artstation.com/zoni)
-- [Instagram](https://www.instagram.com/zoni527/)
 
 <!--
 **zoni527/zoni527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
